@@ -1,5 +1,5 @@
 ## Hi there!
-I'm David, a software engineer with a passion for video games. I love playing them, making them, and even watching other people play them. I also know a few things about web development. Well, perhaps more than a few.
+I'm David, a software engineer with a passion for video games, music, and the outdoors. My current specialization is Web, but more than anything, I like pushing my limits and learning new things.
 
 - 🔭 I’m currently finishing my Full Stack Web course at Lambda School
 - 🌱 I’m working on learning Unity on the side
